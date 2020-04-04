@@ -16,3 +16,6 @@ Dummy Deployment
 
 ## How To Contribute
 
+### Copyright
+
+Copyright message
