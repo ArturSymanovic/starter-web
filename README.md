@@ -8,7 +8,11 @@ Dummy introduction
 
 ## Purpose
 
+Dummy purpose
+
 ## Deployment
+
+Dummy Deployment
 
 ## How To Contribute
 
