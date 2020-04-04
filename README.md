@@ -1,5 +1,7 @@
-# One Sharp symbol - First Level Heading
+# Starter Web Project
 
-## Two sharp symbols - Second Level Heading
+## Introduction
 
-Text without any sharp symbols
+## Purpose
+
+## How To Contribute
