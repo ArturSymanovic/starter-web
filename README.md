@@ -1,7 +1,5 @@
-# Starter Web Repo
+# One Sharp symbol - First Level Heading
 
-This repository is for showing how Git and GitHub work
+##Two sharp symbols - Second Level Heading
 
-## Purpose
-
-Sample website with plenty of files for demos
+Text without any sharp symbols
