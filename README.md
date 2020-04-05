@@ -3,6 +3,7 @@
 This is  a simple website project for playing around with Git
 Some more text
 asd
+asd
 ## Introduction
 
 Dummy introduction
